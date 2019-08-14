@@ -1,3 +1,5 @@
-import { helloworld } from './helloword';
+import {
+    helloworld
+} from './helloworld';
 
-document.write(helloworld())
+document.write(helloworld());
